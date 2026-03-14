@@ -81,16 +81,8 @@ Steps followed in this project to secure the environment:
 
 ---
 
-## 📂 Repository Structure
-```text
-├── Lab_Simulations/
-│   ├── Corporate_WLAN_Setup.pkt  # Cisco Packet Tracer File
-│   └── Config_Snippets.txt       # CLI commands for WLC/Router
-├── Documentation/
-│   ├── Theory_DeepDive.pdf       # Detailed Module Notes
-│   └── Security_Audit.xlsx       # Risk Assessment Table
-└── README.md
-## 👤 Author
+
+## 👤 Author 
 **Kush Pithadia**
 * College Project: Cybersecurity Essentials
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/kush-pithadia-966b662bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
