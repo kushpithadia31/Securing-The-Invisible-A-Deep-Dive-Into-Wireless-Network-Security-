@@ -15,7 +15,7 @@
 - [Encryption Deep-Dive](#-encryption-deep-dive)
 - [Attack Simulation & Mitigation](#-attack-simulation--mitigation)
 - [Enterprise Hardening Guide](#-enterprise-hardening-guide)
-- [Submission Metadata](#-submission-metadata)
+
 
 ---
 
